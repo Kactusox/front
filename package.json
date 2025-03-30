@@ -11,6 +11,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "proxy": "https://backend-production-88d3.up.railway.app",
     "@fortawesome/fontawesome-svg-core": "^6.7.2",
     "@fortawesome/free-regular-svg-icons": "^6.7.2",
     "@fortawesome/free-solid-svg-icons": "^6.7.2",
